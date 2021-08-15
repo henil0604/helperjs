@@ -15,7 +15,7 @@ $h.getContrastColor = require("./src/getContrastColor");
 $h.getParam = require("./src/getParam");
 $h.isEqual = require("./src/isEqual");
 $h.timeDiff = require("./src/timeDiff");
-
+$h.formatBytes = require("./src/formatBytes");
 
 
 
