@@ -1,0 +1,42 @@
+/*!
+ * Add items to an object at a specific path
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {Object}       obj  The object
+ * @param  {String|Array} path The path to assign the value to
+ * @param  {*}            val  The value to assign
+ */
+
+/*!
+ * Build a query string from an object of data
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {Object} data The data to turn into a query string
+ * @return {String}      The query string
+ */
+
+/*!
+ * Check if two objects or arrays are equal
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {*}       obj1 The first item
+ * @param  {*}       obj2 The second item
+ * @return {Boolean}       Returns true if they're equal in value
+ */
+
+/*!
+ * Create a random color value.
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @return {String} A random six-digit color hexcode
+ */
+
+/*!
+ * Create an immutable clone of data (an array, object, map, set, etc.)
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {*} obj The data object to copy
+ * @return {*}     The clone of the array or object
+ */
+
+/*!
+ * Get the amount of time from now for a date
+ * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {String|Date} time The date to get the time from now for
+ * @return {Object}           The time from now data
+ */

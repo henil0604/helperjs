@@ -7,10 +7,11 @@
     "dev": "webpack --mode development --watch --progress",
     "build": "webpack --mode production --progress"
   },
-  "author": "",
+  "author": "henil0604",
+  "github": "https://github.com/henil0604/helperjs",
+  "homepage": "https://github.com/henil0604/helperjs",
   "license": "ISC",
   "dependencies": {
-    "crypto": "^1.0.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
