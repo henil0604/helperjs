@@ -18,6 +18,8 @@ $h.timeDiff = require("./src/timeDiff");
 $h.formatBytes = require("./src/formatBytes");
 
 
+try {
+    window.$h = $h;
+} catch (e) { }
 
-window.$h = $h;
 module.exports = $h;
