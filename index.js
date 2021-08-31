@@ -19,7 +19,9 @@ $h.formatBytes = require("./src/formatBytes");
 
 
 try {
-    window.$h = $h;
+    if(window){
+        window.$h = $h;
+    }
 } catch (e) { }
 
 module.exports = $h;
